@@ -1,7 +1,7 @@
 # vacuum_cleaner
 vacuum cleaner performance measuring environment simulator
 
-This is the solution to ex. 2.5 in the artificial
+This is the solution to ex. 2.5 in the book "Artificial Intelligence - A Modern Approach" (Stuart J. Russell and Peter Norvig).
 
 It focuses on the environment that simulates an agent (robot) for cleaning floors.
 
